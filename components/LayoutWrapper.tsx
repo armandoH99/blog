@@ -15,7 +15,7 @@ interface Props {
 const LayoutWrapper = ({ children }: Props) => {
   return (
     <SectionContainer>
-      <div className="fixed left-0 z-40 h-[60px] w-full bg-gray-100 dark:bg-gray-800"></div>
+      <div className="fixed left-0 z-40 h-[60px] w-full bg-slate-200 dark:bg-slate-900"></div>
       <header className="l-0 fixed left-0 top-0 z-50 mx-0 flex w-full items-center justify-between px-2 py-2">
         <div className="container mx-auto flex items-center justify-between  max-w-3xl sm:px-6 xl:max-w-5xl xl:px-0">
           <div>
