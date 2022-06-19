@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'pt-br',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tio.dev',
-  siteRepo: 'https://github.com/tiodev/blog',
+  siteRepo: 'https://github.com/tio-dev/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.svg',
   socialBanner: '/static/images/twitter-card.png',
