@@ -13,7 +13,7 @@ export default function Projects() {
             Projetos Web3
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Alguns projetos abertos que estou trabalhando
+            Alguns projetos abertos em que estou trabalhando
           </p>
         </div>
         <div className="container py-12">
