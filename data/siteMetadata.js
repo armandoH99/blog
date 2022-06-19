@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/tio-dev/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.svg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/tiodev_icone.png',
   email: 'richard.anchieta@tio.dev',
   github: 'https://github.com/tio-dev',
   twitter: 'https://twitter.com/richard_tiodev',
