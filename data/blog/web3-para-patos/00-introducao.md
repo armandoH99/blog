@@ -11,6 +11,56 @@ summary: 'Introdução ao curso Web3 para Patos'
 
 (ainda em construção)
 
+
+Curso introdutório de Web3 (aplicações descentralizadas WEB com blockchain) para desenvolvedores curiosos.
+
+## Rascunho de tópicos
+
+Contexto
+
+- História do dinheiro
+- Bitcoin
+- Blockchain
+- Ethereum
+- Smart Contracts
+- Altcoins
+- Gerações de blockchains
+- Crédito de Carbono
+- Algorand - A Blockchain Verde
+
+
+Exploração
+
+- algoexplorer
+- Transações
+- Contas
+- Transferências
+- FTs e NFTs
+
+Mão na massa 1
+
+- Criar carteira e conta
+- Senha e Mnemônico
+- Endereço
+- Transferência 
+
+Conceitos - criptografia
+
+- Encoding
+  - Hexadecimal
+  - Base64
+  - Base32
+
+- Hash
+
+Mão na massa 2
+
+- replit
+  
+
+---
+# Desenvolvimento prático
+
 Durante o curso vamos criar uma aplicação real, funcional e extremamente útil para a gente: um Sistema de Gestão de Aprendizagem (LMS - Learning Management System) de código aberto, utilizando tecnologias da WEB3.
 
 Uma plataforma de aprendizagem que será construída como prática do aprendizado, porém extrapolando os fins didáticos e podendo ser utilizada em produção livremente [(licença MIT)](https://choosealicense.com/licenses/mit).
