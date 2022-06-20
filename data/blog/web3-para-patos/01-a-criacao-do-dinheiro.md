@@ -2,7 +2,7 @@
 title: Breve história do dinheiro 
 date: '2022-06-20'
 tags: ['web3', 'blockchain', 'curso']
-draft: false
+draft: true
 summary: 'Breve história do dinheiro'
 ---
 
