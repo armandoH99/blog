@@ -13,7 +13,7 @@ summary: 'Introdução ao curso Web3 para Patos'
 
 Durante o curso vamos criar uma aplicação real, funcional e extremamente útil para a gente: um Sistema de Gestão de Aprendizagem (LMS - Learning Management System) de código aberto, utilizando tecnologias da WEB3.
 
-É uma plataforma de aprendizagem que será construída como prática do aprendizado, porém extrapolando os fins didáticos e podendo ser será utilizada em produção livremente.
+Uma plataforma de aprendizagem que será construída como prática do aprendizado, porém extrapolando os fins didáticos e podendo ser utilizada em produção livremente [(licença MIT)](https://choosealicense.com/licenses/mit).
 
 A pilha de tecnologias é opinativa. São as tecnologias, ferramentas e práticas utilizadas pelo nosso time na empresa STEMativa (https://stemativa.com.br), especializada em soluções descentralizadas para o mercado Agro, Florestal e de Capitais.
 
