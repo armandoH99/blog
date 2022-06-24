@@ -1,8 +1,8 @@
-<h1> Barra de pesquisa utilizando Reactc </h1>
+<h1> Barra de pesquisa utilizando React </h1>
 
 ![image](https://user-images.githubusercontent.com/83254726/175394998-f4f3fd83-433e-4c24-93bd-fa92307df859.png)
 
-<h2> Construir o projeto sobr o quel vamos inicial </h2>
+<h2> Construir o projeto inicial </h2>
 
 1. Criar [um projeto React](https://create-react-app.dev/)
  create-react-app my-app
